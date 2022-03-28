@@ -1,12 +1,12 @@
-# CeFr
+# PyCCELL-PRFQT
 
 ## Introduction
 
-CeFr is an automated python pipeline for plate reader data analysis. It is designed to work on SynergyH1 and Cytation3 plate readers. The final output is a dataframe containing a background-corrected, triplicate-averaged columns. It outputs a raw data plot as well as the triplicated averaged plot. One can chose to execute the different functions independently or all together by calling the main function. 
+PyCCELL-PRFQT (PYthon Continuous CELL-free PRotein production Fluorescence Quantification and Treatment) is an automated python pipeline for plate reader data analysis. It is designed to work on SynergyH1 and Cytation3 plate readers. The final output is a dataframe containing a background-corrected, triplicate-averaged columns. It outputs a raw data plot as well as the triplicated averaged plot. One can chose to execute the different functions independently or all together by calling the main function. 
 
 ## Implementation
 
-Cefr is available in 2 different formats : python and jupyter notebook. To import it one should download the python file in its working directory or it root python packages folder. One can also dowload directly the notebook containing an example.
+PyCCELL-PRFQT is available in 2 different formats : python and jupyter notebook. To import it one should download the python file in its working directory or it root python packages folder. One can also dowload directly the notebook containing an example.
 
 ## Explaination of the different functions
 
