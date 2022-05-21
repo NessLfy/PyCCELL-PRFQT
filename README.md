@@ -33,3 +33,8 @@ PyCCELL-PRFQT is available in 2 different formats : python and jupyter notebook.
 ### Example of synthax
 
 *main(r'C:/Users/nessl/Documents/M1/S2/Lab 1/Logic gate/cell free/11.03.22 cell free.xlsx',75,"YES",6,8,'col',['E22', 'F22', 'G22'],"YES")*
+
+### Further example 
+
+An example of analysis is present in the example folder. There you will find multiple script used for analysing cell-free data in the context of an internship. 
+
