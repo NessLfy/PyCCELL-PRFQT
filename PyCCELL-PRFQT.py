@@ -259,7 +259,7 @@ def main(data,gain,cor,nr,nc,tripl,control,sa):
 #be carefull of how you write the name of your background wells 
 
 #main('path/name of file.xlsx',gain,'correction',number of rows,number of columns,'how the triplicates were done','where is the control,plot in the same axis ?')
-#main('11.03.22 cell free.xlsx',75,"YES",6,8,'col',['E22', 'F22', 'G22'],"YES")
+#main('example/data/11.03.22 cell free.xlsx',75,"YES",6,8,'col',['E22', 'F22', 'G22'],"YES")
 
 
 
